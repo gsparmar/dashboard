@@ -6,3 +6,5 @@ Quick start:
 $ npm install
 $ npm start
 ```
+
+Responsive layout for mobile and desktop view
